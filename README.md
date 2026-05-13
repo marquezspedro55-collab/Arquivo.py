@@ -1,2 +1,41 @@
-# Arquivo.py
-Um codigo de arquivo, para guardar e armazenar informações fácil, direto no vscode ou outros!
+
+# 📁 Sistema de Arquivos em Python
+
+Projeto simples desenvolvido em Python para aprender manipulação de arquivos.
+
+---
+
+# 🚀 Funcionalidades
+
+✅ Criar arquivos com `x`  
+✅ Escrever arquivos com `w`  
+✅ Adicionar conteúdo com `a`  
+✅ Ler arquivos com `r`  
+✅ Alterar permissões com `chmod`  
+✅ Sistema simples de senha  
+
+---
+
+# 🧠 Tecnologias
+
+- Python 3
+
+---
+
+# 📚 O que aprendi
+
+Este projeto me ajudou a entender:
+
+- Manipulação de arquivos
+- Permissões de arquivos
+- Entrada de dados
+- Estruturas condicionais
+- Segurança básica
+- Uso do terminal
+
+---
+
+# ▶️ Como executar
+
+```bash
+python arquivo.py
