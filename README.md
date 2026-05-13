@@ -38,4 +38,6 @@ Este projeto me ajudou a entender:
 # ▶️ Como executar
 
 ```bash
-python arquivo.py
+coloque o nome do seu arquivo
+exemplo: 
+Marques.txt
