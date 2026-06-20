@@ -38,6 +38,6 @@ Este projeto me ajudou a entender:
 # ▶️ Como executar
 
 ```bash
-coloque o nome do seu arquivo
+coloque o nome arquivo
 exemplo: 
 Marques.txt
