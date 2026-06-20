@@ -19,7 +19,8 @@ Projeto simples desenvolvido em Python para aprender manipulação de arquivos.
 # 🧠 Tecnologias
 
 - Python 3
-
+- Sqlite3
+- SQL viwer
 ---
 
 # 📚 O que aprendi
